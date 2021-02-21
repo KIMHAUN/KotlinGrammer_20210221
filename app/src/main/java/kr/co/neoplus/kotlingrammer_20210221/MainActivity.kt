@@ -18,7 +18,8 @@ class MainActivity : AppCompatActivity() {
 //        상수로 => 정수를 답는 공간, JAVA : final int num2;
         val num2 : Int
         num2 = 10
-        num2 = 20 // num2 is value. can not change.
+        num2 = 20
+//        num2 is value. can not change.
 
     }
 }
